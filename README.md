@@ -4,4 +4,4 @@
 
 - [《阿里批判》](http://www.baidu.com/)2018.6.6上传，对于阿里巴巴的集中批评
 
-鸣谢：GitHub，百度云盘，一个木函。
+<p align="right">鸣谢：GitHub，百度云盘，一个木函。</p>
