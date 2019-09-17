@@ -10,4 +10,4 @@
 
 - [《城市生存》](https://github.com/afzj/books/raw/master/file/%E5%9F%8E%E5%B8%82%E7%94%9F%E5%AD%98.docx)阿飞，2019.2.25上传，一次打工经历。
 
-- [《高校与赞美诗》](https://github.com/afzj/books/raw/master/file/%E9%AB%98%E6%A0%A1%E4%B8%8E%E8%B5%9E%E7%BE%8E%E8%AF%97.docx)大哈，2019.9.17上传，为校庆献给阿飞。
+- [《高校与赞美诗》](https://github.com/afzj/books/raw/master/file/%E9%AB%98%E6%A0%A1%E4%B8%8E%E8%B5%9E%E7%BE%8E%E8%AF%97.pdf)[可编辑版](https://github.com/afzj/books/raw/master/file/%E9%AB%98%E6%A0%A1%E4%B8%8E%E8%B5%9E%E7%BE%8E%E8%AF%97.docx)大哈，2019.9.17上传，为校庆献给阿飞。
